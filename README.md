@@ -16,14 +16,18 @@
 * 从 `担忧未来` 到 `老有所依`。
 * 从 `白日做梦` 到 `梦想成真`。
 
+## 目录
+
+* [你的钱正在变得不值钱](/posts/你的钱正在变得不值钱.md)
+
 ## 一起成长
 
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/civil-service-exam) 给个 `小星星`。
+* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/personal-financial-planning) 给个 `小星星`。
 * 如果您想与小二更多交流添加微信 `m353839115`。
 
 ![捐助与联系](https://raw.githubusercontent.com/pushmetop/resource/master/donate/donate.png)
 
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop/civil-service-exam)
+> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
