@@ -20,6 +20,11 @@
 
 * [你的钱可能正在变少](/posts/你的钱可能正在变少.md)
 
+## 其他仓库
+
+* [每日 30 秒](https://github.com/pushmetop/30-seconds-for-everyday)
+* [什么值得读](https://github.com/pushmetop/reading-lists)
+
 ## 一起成长
 
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
