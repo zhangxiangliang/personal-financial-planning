@@ -34,6 +34,10 @@
 - [基金分析](/posts/基金入门/基金分析.md)
 - [基金实战](/posts/基金入门/基金实战.md)
 
+### 资料推荐
+
+- [视频推荐](/posts/资料推荐/视频推荐.md)
+
 ## 其他仓库
 
 - [每日 30 秒](https://github.com/pushmetop/30-seconds-for-everyday)
