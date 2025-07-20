@@ -56,6 +56,4 @@
 
 如果您感觉有收获可以点赞关注`激励我`，也欢迎到 [Github](https://github.com/zhangxiangliang/personal-financial-planning) 加个 star。
 
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
-
 > 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)
